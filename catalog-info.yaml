@@ -1,0 +1,9 @@
+apiVersion: doug-portal/v1alpha
+kind: Component
+metadata:
+  name: doug-portal
+  description: a portal for doug
+spec:
+  type: website
+  lifecycle: production
+  owner: doug
