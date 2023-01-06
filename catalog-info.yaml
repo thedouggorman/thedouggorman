@@ -1,4 +1,4 @@
-apiVersion: doug-portal/v1alpha
+apiVersion: 1
 kind: Component
 metadata:
   name: doug-portal
@@ -6,4 +6,4 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: doug
+  owner: thedouggorman
